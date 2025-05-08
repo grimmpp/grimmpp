@@ -17,8 +17,6 @@
 * enjoiing time with family and good friends
 
 
-🤑 You can support me so that I can invest more in my test environments and improve scope and qualtiy of my open source projects. <br />
-[![Generic badge](https://img.shields.io/badge/SUPPORT_THIS_PROJECT-PayPal.me-27ae60.svg)](https://paypal.me/grimmpp) 
 
 ## Github Stats 
 
@@ -42,4 +40,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+
+🤑 You can support me so that I can invest more in my test environments and improve scope and qualtiy of my open source projects. <br />
+[![Generic badge](https://img.shields.io/badge/SUPPORT_THIS_PROJECT-PayPal.me-27ae60.svg)](https://paypal.me/grimmpp) 
+
 -->
