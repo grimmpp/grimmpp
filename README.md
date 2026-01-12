@@ -20,6 +20,12 @@
 
 ## Github Stats 
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grimmpp&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=grimmpp&hide=issues&theme=github_dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=grimmpp&theme=github_dark) 
+
+<!--
 <a href="">
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=grimmpp&hide=issues&hide_rank=false&hide_border=true&theme=github_dark" />
 </a>
